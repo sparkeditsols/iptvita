@@ -158,3 +158,7 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title="Radio",Radio TV Serie A con RDS
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+#EXTINF:-1 tvg-id="RaiItalia.it" tvg-chno="10" tvg-logo="https://d1lnjfyey7pbh6.cloudfront.net/content/1702615707687-rai-italia.png",Rai Italia
+https://ilglobotv-live.global.ssl.fastly.net/RAIItaliaZA/Live.m3u8
+#EXTINF:-1 tvg-id="RaiWorldPremium.it" tvg-chno="11" tvg-logo="https://d1lnjfyey7pbh6.cloudfront.net/content/1687937411694-rai-world.png",RAI World Premium
+https://ilglobotv-live.global.ssl.fastly.net/RAIW/Live.m3u8
