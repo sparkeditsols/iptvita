@@ -1,0 +1,16 @@
+[build]
+  publish = "/"
+
+[[headers]]
+  for = "/*.m3u"
+  [headers.values]
+    Content-Type = "audio/x-mpegurl"
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "no-cache, no-store, must-revalidate"
+
+[[headers]]
+  for = "/*.m3u8"
+  [headers.values]
+    Content-Type = "application/vnd.apple.mpegurl"
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "no-cache, no-store, must-revalidate"
